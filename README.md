@@ -2,4 +2,4 @@
 this is my first Git demo
 <br>
 <hr>
-Author---Vaishnavi katre
+Author---Vaishnavi (vaishu katre)
